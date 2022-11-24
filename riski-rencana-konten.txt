@@ -1,0 +1,8 @@
+Rencana konten Rizki
+
+- javascript
+ * ES6
+ * Framewoek Javascript
+- php frameork
+- interview
+- vlog
