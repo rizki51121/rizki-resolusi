@@ -3,6 +3,7 @@ Rencana konten Rizki
 - javascript
  * ES6
  * Framewoek Javascript
+- fundamental struktur data
 - php frameork
 - interview
 - vlog
